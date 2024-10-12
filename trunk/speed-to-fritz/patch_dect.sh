@@ -4,7 +4,9 @@
 #########################################################################################################################
 ### Keep this line, because some files are needed from this firmware in every case.
 #IMG="ftp://ftp.avm.de/fritz.box/fritzfon.7150/dect-firmware/fritz.fon_7150.annexb.dect_update-vbf003212-26.image" 
-IMG="ftp://ftp.avm.de/fritz.box/fritzfon.7150/dect-firmware/FRITZ.Fon_7150.AnnexB.dect_update-vbf003212-26-A.image"
+#-#This is a broken link, replaced it with one from the avm archive.
+#-#IMG="ftp://ftp.avm.de/fritz.box/fritzfon.7150/dect-firmware/FRITZ.Fon_7150.AnnexB.dect_update-vbf003212-26-A.image"
+IMG="https://download.avm.de/archive/fritz.box/fritzfon.7150/dect-firmware/FRITZ.Fon_7150.AnnexB.dect_update-vbf003212-26-A.image"
 ### There is also a new DECT firmware included with Sinus W500V firmware, if you want to use this, uncomment the line startimg with IMG2.
 IMG2="http://hilfe.telekom.de/dlp/eki/downloads/Sinus%20W%20500%20V/fw_SinusW500V_27_04_27.zip ./Firmware.orig/dect_update-SinusW500V-vbf001589.image"
 # 
