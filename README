@@ -1,23 +1,10 @@
-trunk : Hauptverzeichnis
+This is a fork of speed-to-fritz.
 
-commit-trunk-co.sh : Aktualisiert  ./trunk/co
-commit-trunk-sp.sh : Aktualisiert  ./trunk/speed-to-fritz
+Its goal is to replace broken links in the scripts and getting it running again.
+Note: This project is WIP and theres no guarantee this will be continued.
+Retrieving old firmware gets harder from year to year, every contribution is welcome.
+Im really unexperienced in using the codebase of speed-to-fritz so please be patient with me.
+Anyone contributing to this project is welcome.
 
- !!!Wichtig: Kommentare in dieses beiden Files müssen editiert werden!!! 
-
- Also den Bedürfnissen anpassen. 
- Add SVN wird alle zusätzlichen Files hochladen, 
- jedoch löschbar sind Files und Verzeichnisse nur einzeln!
-
-
-download_co.sh : Ladet das co Verzeichnis neu.
-download_speed-to-fritz.sh : Ladet das speed-to-fritz Verzeichnis neu.
-add_patch.sh : Fügt einen fremden patch mit Filenamen 'patch.diff' zum trunk.
-make_release.sh : Packt speed-to-fritz Verzeichnis für den Upload ins Forum, 
-das Ergebnis ist im Verzeichnis: /mnt/win/upload (dieses Verzeichnis muss vorhanden sein).
-patch.diff : Wird immer neu erstellt wenn commit-trunk-co.sh oder commit-trunk-sh.sh verwendet wird.
-
-Wird commit-trunk-[xx].sh ausgefhrt erfolgt eine Sicherheitsabfrage ob wirklich 
-ein commit erfolgen soll, wird das verneint wird ebenfalls ein patch.diff
-erstellt das an eine admin versandt werden kann um es einzuchecken oder
-das generierte patch.diff kann mit einen Ticket im trac hochgeldaen werden.
+Thanks to AVM for still providing some of the old firmware and boxmatrix.info for documentation.
+If you want to reach out to me, message me on discord (universeclient).
