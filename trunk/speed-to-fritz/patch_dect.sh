@@ -8,6 +8,7 @@
 #-#IMG="ftp://ftp.avm.de/fritz.box/fritzfon.7150/dect-firmware/FRITZ.Fon_7150.AnnexB.dect_update-vbf003212-26-A.image"
 IMG="https://download.avm.de/archive/fritz.box/fritzfon.7150/dect-firmware/FRITZ.Fon_7150.AnnexB.dect_update-vbf003212-26-A.image"
 ### There is also a new DECT firmware included with Sinus W500V firmware, if you want to use this, uncomment the line startimg with IMG2.
+#-#Broken link, boxmatrix.info seems to have a copy of the firmware, it isnt public though, gotta write them an email.
 IMG2="http://hilfe.telekom.de/dlp/eki/downloads/Sinus%20W%20500%20V/fw_SinusW500V_27_04_27.zip ./Firmware.orig/dect_update-SinusW500V-vbf001589.image"
 # 
 # 
