@@ -35,6 +35,7 @@ if [ "$BUILDRECOVER" = "y" ]; then
 fi
 #-------------------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------------------
+#-#Broken link, couldnt find it in the archive.
 RECOVERIMG7170="ftp://ftp.avm.de/fritz.box/fritzbox.fon_wlan_7170/x_misc/deutsch/fritz.box_fon_wlan_7170.04.80.recover-image.exe"
 # multilingual recover firmware is usual larger and preverable if new ones are avalabel
 # v3 recover can be used as well for all 7270 compatibel boxes
