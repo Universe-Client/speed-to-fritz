@@ -1,3 +1,4 @@
+#-#Seems to be used for creating a patchfile (a log?)
 #!/bin/bash
 VERZEICHNISS1="./1"
 VERZEICHNISS2="./2"

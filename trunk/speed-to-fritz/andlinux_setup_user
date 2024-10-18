@@ -1,3 +1,4 @@
+#-#Seems to create a user called "freetz", add it to the sudoers file and has smth to do with freetz ig.
 #!/bin/bash
 #Run this from  the FLTK shell!
 NewUser="freetz"

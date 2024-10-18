@@ -1,3 +1,4 @@
+#-#I have no idea what this does, gotta do some research.
 FREETZ_HAVE_DOT_CONFIG=y
 #
 # Freetz package download sites
@@ -6,13 +7,16 @@ FREETZ_MOD_DL_NUM_SITES="3"
 #
 # Download site #1
 #
+#-#Broken.
 FREETZ_MOD_DL_SITE_1="http://freetz.3dfxatwork.de"
 #
 # Download site #2
 #
+#-#403 Forbidden
 FREETZ_MOD_DL_SITE_2="http://freetz.wirsind.info"
 #
 # Download site #3
 #
+#-#403 Forbidden
 FREETZ_MOD_DL_SITE_3="http://freetz.magenbrot.net"
 

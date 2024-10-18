@@ -1,3 +1,4 @@
+#-#Also clears environment on models without EVA.
 #!/bin/bash
 . incl_var
 echo "--WARNING: This script will clear environment variables on older Speedports without EVA Bootloader!!--"

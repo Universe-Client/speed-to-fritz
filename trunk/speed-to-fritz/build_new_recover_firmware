@@ -1,3 +1,4 @@
+#-#Also creates recover images?
 #!/bin/bash
 orig=$SECONDS
 echo "--------------------------------------------------------------------------------"

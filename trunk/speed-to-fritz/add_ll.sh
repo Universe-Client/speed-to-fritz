@@ -1,3 +1,4 @@
+#-#Seems to modify the Firmware.conf in some way.
 #!/bin/bash
 if ! [ -f "./link.lst" ]; then
 	cat ./Config.in > ./link.lst

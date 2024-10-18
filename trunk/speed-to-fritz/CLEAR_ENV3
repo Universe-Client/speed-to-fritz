@@ -1,3 +1,4 @@
+#-#Also clears environment on models without EVA.
 #!/bin/bash
 echo
 echo "-----------------------------------------------------------------------------------------------------"

@@ -1,3 +1,4 @@
+#-#No idea what this does, anyone out there having some info?
 #!/bin/bash
 
 DEST="$1"
